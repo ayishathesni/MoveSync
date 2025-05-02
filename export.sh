@@ -1,0 +1,1 @@
+python tools/convert2fbx.py --input=C:\Users\CHIDORA\Desktop\ROMP_Results\video_results.npz --output=C:\Users\CHIDORA\Desktop\bvh --gender=male

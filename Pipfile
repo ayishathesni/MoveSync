@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.22.0"
+opencv-python = "*"
+cython = "*"
+torch = "*"
+lap = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

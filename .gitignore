@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+config_file/
+models/
+*.pyc
+*.swp
+myenv/
+venv/
+.eggs/
+build/
+smpl_model_data/
